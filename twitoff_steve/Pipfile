@@ -9,6 +9,8 @@ jinja2 = "*"
 flask = "*"
 python-dotenv = "*"
 spacy = "*"
+scikit-learn = "*"
+numpy = "*"
 
 [dev-packages]
 
